@@ -224,7 +224,8 @@ dependencies:
  2. Prepare the dataset: Ensure that your ICM-57 is ready.
  3. Run the Evaluation: Use the following command to run the evaluation script. Replace the placeholders
 with the actual paths if they differ.
-    python eval.py --checkpoint mat.pth --save_path results/ --config config/eval.yaml
+
+ ` python eval.py --checkpoint mat.pth --save_path results/ --config config/eval.yaml `
 
 
 ## Statement
